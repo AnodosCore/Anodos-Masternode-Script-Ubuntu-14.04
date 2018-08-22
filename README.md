@@ -102,7 +102,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***Step 7***
 * Paste the code below into the Bitvise terminal, and then press enter
 
-`wget -q https://raw.githubusercontent.com/AnodosCore/Anodos-Masternode-Script-Ubuntu-16.04/master/ands_install.sh && bash ands_install.sh`
+`wget -q https://raw.githubusercontent.com/AnodosCore/Anodos-Masternode-Script-Ubuntu-14.04/master/ands_install.sh && bash ands_install.sh`
 
 ![Example-Bash](https://i.imgur.com/TZakdpG.png)
 
